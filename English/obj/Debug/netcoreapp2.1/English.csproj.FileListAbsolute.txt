@@ -1,0 +1,14 @@
+c:\users\sy\source\repos\English\English\bin\Debug\netcoreapp2.1\English.deps.json
+c:\users\sy\source\repos\English\English\bin\Debug\netcoreapp2.1\English.runtimeconfig.json
+c:\users\sy\source\repos\English\English\bin\Debug\netcoreapp2.1\English.runtimeconfig.dev.json
+c:\users\sy\source\repos\English\English\bin\Debug\netcoreapp2.1\English.dll
+c:\users\sy\source\repos\English\English\bin\Debug\netcoreapp2.1\English.pdb
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.csprojAssemblyReference.cache
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.csproj.CoreCompileInputs.cache
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.RazorAssemblyInfo.cache
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.RazorAssemblyInfo.cs
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.AssemblyInfoInputs.cache
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.AssemblyInfo.cs
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.RazorTargetAssemblyInfo.cache
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.dll
+c:\users\sy\source\repos\English\English\obj\Debug\netcoreapp2.1\English.pdb
